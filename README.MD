@@ -1,10 +1,12 @@
 🔐 Secure Login UI
 Uma interface de login segura e moderna, desenvolvida com foco em boas práticas de usabilidade e segurança para aplicações web.
+---
 
 📌 Visão Geral
 Este projeto tem como objetivo fornecer uma base visual para sistemas de autenticação, com uma estrutura limpa e modular que facilita a integração com backends diversos. A interface é responsiva e pode ser facilmente adaptada para diferentes contextos de uso.
 
 📁 Estrutura do Projeto
+
 secure-login-ui/
 ├── assents/       # Recursos visuais (imagens, ícones, etc.)
 ├── scripts/       # Scripts JavaScript para interações e validações
@@ -35,3 +37,4 @@ cd secure-login-ui
 
 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir conforme necessário.
+
