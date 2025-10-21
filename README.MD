@@ -24,7 +24,7 @@ secure-login-ui/
 ├── .gitkeep                       # Placeholder para manter diretórios vazios no Git
 
 ├── README.md                      # Documentação do projeto
-
+---
 
 🚀 Funcionalidades
 - Layout responsivo e moderno
@@ -49,6 +49,7 @@ cd secure-login-ui
 
 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir conforme necessário.
+
 
 
 
