@@ -1,0 +1,68 @@
+
+# ======================================
+# 👨‍💻 Projeto: Secure Login UI
+# 🧩 Objetivo: Interface de login com boas práticas de UI/UX e segurança
+# ======================================
+
+# ⚙️ SISTEMA / AMBIENTE
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 🧱 AMBIENTE DE DESENVOLVIMENTO
+node_modules/
+dist/
+build/
+.env
+.env.local
+.vscode/
+.idea/
+*.log
+*.tmp
+
+# 🧩 DEPENDÊNCIAS E PACOTES
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 🧠 BACKUPS / TEMP
+*.bak
+*.swp
+*.swo
+*.orig
+
+# 🧰 CACHE DE FRAMEWORKS
+.cache/
+.next/
+out/
+.sass-cache/
+coverage/
+.tmp/
+*.tsbuildinfo
+
+# 📦 ARQUIVOS DE DEPLOY / PRODUÇÃO
+*.zip
+*.tar
+*.gz
+
+# 🧪 TESTES / QA
+reports/
+coverage/
+test-output/
+*.spec.js
+*.test.js
+
+# 🔒 SEGURANÇA
+# Evita expor chaves, tokens ou variáveis sensíveis
+*.pem
+*.key
+*.crt
+*.p12
+*.cer
+*.enc
+
+# 🚫 ARQUIVOS ESPECÍFICOS DO GIT
+# Mantém apenas o controle necessário
+!.gitignore
+!.gitattributes
