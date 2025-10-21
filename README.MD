@@ -1,62 +1,54 @@
-🔐 Secure Login UI
-Uma interface de login segura e moderna, desenvolvida com foco em boas práticas de usabilidade e segurança para aplicações web.
----
+# Secure Login UI
 
-📌 Visão Geral
-Este projeto tem como objetivo fornecer uma base visual para sistemas de autenticação, com uma estrutura limpa e modular que facilita a integração com backends diversos. A interface é responsiva e pode ser facilmente adaptada para diferentes contextos de uso.
+Uma coleção de componentes UI para formulários de login e autenticação — prontos para integração em apps web modernos.
 
----
+Badges
+- CI: ![CI](https://img.shields.io/badge/ci-pending-lightgrey)
+- License: ![License](https://img.shields.io/badge/license-MIT-blue)
+- Version: ![Version](https://img.shields.io/badge/version-0.1.0-yellow)
 
-📁 Estrutura do Projeto
----
+Descrição
+Uma biblioteca leve de componentes (formulário de login, esqueci a senha, modal 2FA, validações) com foco em acessibilidade e boas práticas de segurança na interface.
 
-secure-login-ui/
+Live demo
+- (adicione aqui o link do demo hospedado, ex.: Vercel / Netlify / GitHub Pages)
 
-├── assets/                        # Recursos visuais (imagens, ícones, etc.)
+Principais recursos
+- Componentes de login reutilizáveis
+- Validações client-side
+- Estrutura responsiva e acessível (a11y)
+- Exemplo de fluxo com 2FA (placeholder)
 
-├── scripts/                       # Scripts JavaScript para interações e validações
+Quick start
+1. Clone:
+   git clone https://github.com/NikolasBsilva/secure-login-ui.git
+2. Instale dependências:
+   npm install
+3. Rodar em dev:
+   npm start
+4. Build:
+   npm run build
 
-├── styles/                        # Estilos CSS para layout e design
+Exemplo de uso
+```js
+// Exemplo genérico — adapte ao seu export real
+import { LoginForm } from 'secure-login-ui'
+function App() {
+  return <LoginForm onSubmit={handleLogin} />
+}
+```
 
-├── index.html                     # Página principal da interface de login
+Screenshots
+- Adicione imagens/GIFs na pasta /assets e referencie aqui para melhorar conversões.
 
-├── .gitignore                     # Arquivos e pastas ignorados pelo Git
+Como contribuir
+- Leia CONTRIBUTING.md para instruções de contribuição, estilo de código e testes.
 
-├── .gitkeep                       # Placeholder para manter diretórios vazios no Git
+Licença
+- Este projeto está sob a licença MIT — veja LICENSE.
 
-├── README.md                      # Documentação do projeto
+Tópicos sugeridos (adicionar nos settings do repo)
+secure, login, authentication, ui, components, react, accessibility, 2fa
 
----
-
-🚀 Funcionalidades
-- Layout responsivo e moderno
-- Validação básica de campos
-- Estrutura modular para fácil manutenção
-- Separação clara entre estilos, scripts e recursos visuais
----
-
-🛠️ Tecnologias Utilizadas
-- HTML5
-- CSS3
-- JavaScript (vanilla)
----
-
-📦 Como Usar
-- Clone o repositório:
-git clone https://github.com/NikolasBsilva/secure-login-ui.git
-- Acesse a pasta do projeto:
-cd secure-login-ui
-- Abra o arquivo index.html em seu navegador.
---
-
-📄 Licença
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir conforme necessário.
-
-
-
-
-
-
-
-
-
+Contato
+- nikolasbezerradasilva9@gmail.com
