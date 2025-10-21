@@ -11,19 +11,19 @@ Este projeto tem como objetivo fornecer uma base visual para sistemas de autenti
 
 secure-login-ui/
 
-├── assets/       # Recursos visuais (imagens, ícones, etc.)
+├── assets/                        # Recursos visuais (imagens, ícones, etc.)
 
-├── scripts/      # Scripts JavaScript para interações e validações
+├── scripts/                       # Scripts JavaScript para interações e validações
 
-├── styles/       # Estilos CSS para layout e design
+├── styles/                        # Estilos CSS para layout e design
 
-├── index.html    # Página principal da interface de login
+├── index.html                     # Página principal da interface de login
 
-├── .gitignore    # Arquivos e pastas ignorados pelo Git
+├── .gitignore                     # Arquivos e pastas ignorados pelo Git
 
-├── .gitkeep      # Placeholder para manter diretórios vazios no Git
+├── .gitkeep                       # Placeholder para manter diretórios vazios no Git
 
-├── README.md     # Documentação do projeto
+├── README.md                      # Documentação do projeto
 
 
 🚀 Funcionalidades
@@ -49,6 +49,7 @@ cd secure-login-ui
 
 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir conforme necessário.
+
 
 
 
