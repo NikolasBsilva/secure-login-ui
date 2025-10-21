@@ -4,6 +4,7 @@ Uma interface de login segura e moderna, desenvolvida com foco em boas práticas
 
 📌 Visão Geral
 Este projeto tem como objetivo fornecer uma base visual para sistemas de autenticação, com uma estrutura limpa e modular que facilita a integração com backends diversos. A interface é responsiva e pode ser facilmente adaptada para diferentes contextos de uso.
+
 ---
 
 📁 Estrutura do Projeto
@@ -24,6 +25,7 @@ secure-login-ui/
 ├── .gitkeep                       # Placeholder para manter diretórios vazios no Git
 
 ├── README.md                      # Documentação do projeto
+
 ---
 
 🚀 Funcionalidades
@@ -49,6 +51,7 @@ cd secure-login-ui
 
 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir conforme necessário.
+
 
 
 
